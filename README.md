@@ -5,7 +5,7 @@ A personal website, built with html and tailwind
 Things I've added:
 - stuff i like
 - links to old sites
-
+- [1] piece of art
 
   
 things to add:
