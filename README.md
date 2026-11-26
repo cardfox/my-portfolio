@@ -6,10 +6,19 @@ Things I've added:
 - stuff i like
 - links to old sites
 - [1] piece of art
+- Favicons?
 
   
 things to add:
 - examples of art
 - examples of music, gotta figure out how embedding works
 - probably random illustrations for flavour haha getit flavour as in flavour town haha im so creative and original
+- Actual formatting and putting stuff in places
+- Decoration bits
+- Animation
 
+
+
+Notes to myself:
+- so favicons don't work on the file when you test it as a tab, who knew? (not me)
+- I did the tailwind install process like 5 times and it works now but i don't know how it's working so I'm not gonna touch any of the tailwind bits
