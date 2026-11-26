@@ -1,1 +1,14 @@
+@font-face {
+  font-family: 'LEDLIGHT';
+  src: url('/fonts/ledlight/LEDLIGHT.otf') format('opentype'),
+       url('/fonts/ledlight/LEDLIGHT.woff2') format('woff2'); /*fallback for when the other newer one doesn't work*/
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap; /*renders it with normal text before the custom one loads in so it doesnt not exist*/
+}
 @import "tailwindcss";
+
+@theme {
+  /*creates a 'font-ledlight' utility class*/
+  --font-ledlight: "LEDLIGHT", sans-serif;
+}
