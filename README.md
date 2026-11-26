@@ -16,7 +16,8 @@ things to add:
 - Actual formatting and putting stuff in places
 - Decoration bits
 - Animation
-
+- more pages, not sure how to do that
+- some sort of menu for navigating between pages
 
 
 Notes to myself:
