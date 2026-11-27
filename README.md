@@ -23,3 +23,12 @@ things to add:
 Notes to myself:
 - so favicons don't work on the file when you test it as a tab, who knew? (not me)
 - I did the tailwind install process like 5 times and it works now but i don't know how it's working so I'm not gonna touch any of the tailwind bits
+
+
+
+Credits!
+fonts:
+'Ledlight' from https://www.dafont.com/ledlight.font
+'Penny Lane Corrupted bold' from https://www.dafont.com/penny-lane-corroded.font?fpp=200&sort=date&psize=l
+'I got up' from https://www.dafont.com/i-got-up.font?fpp=200&sort=date&psize=l
+'Zoyam' from https://www.dafont.com/zoyam.font?fpp=200&sort=date&psize=l
