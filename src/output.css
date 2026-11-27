@@ -2,28 +2,28 @@
 @layer properties;
 @font-face {
   font-family: 'LEDLIGHT';
-  src: url('./fonts/ledlight/LEDLIGHT.otf') format('opentype'), url('./fonts/ledlight/LEDLIGHT.woff2') format('woff2');
+  src: url('../fonts/ledlight/LEDLIGHT.otf') format('opentype'), url('../fonts/ledlight/LEDLIGHT.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'IGOTUP';
-  src: url('./fonts/i_got_up/IGotUp.woff2') format('woff2'), url('./fonts/i_got_up/IGotUp.tff') format('truetype');
+  src: url('../fonts/i_got_up/IGotUp.woff2') format('woff2'), url('../fonts/i_got_up/IGotUp.tff') format('truetype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'PENNYLANECORRODEDBOLD';
-  src: url('./fonts/penny_lane_corroded/PennyLaneCorrodedBold.woff2') format('woff2'), url('./fonts/penny_lane_corroded/PennyLaneCorrodedBold.tff') format('truetype');
+  src: url('../fonts/penny_lane_corroded/PennyLaneCorrodedBold.woff2') format('woff2'), url('../fonts/penny_lane_corroded/PennyLaneCorrodedBold.tff') format('truetype');
   font-weight: bold;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'ZOYAM';
-  src: url('./fonts/zoyam/zoyam.woff2') format('woff2'), url('./fonts/zoyam/zoyam.tff') format('truetype');
+  src: url('../fonts/zoyam/zoyam.woff2') format('woff2'), url('../fonts/zoyam/zoyam.tff') format('truetype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
