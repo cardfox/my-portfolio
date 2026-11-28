@@ -23,7 +23,7 @@
 }
 @font-face {
   font-family: 'ZOYAM';
-  src: url('../fonts/zoyam/zoyam.ttf') format('woff2'), url('../fonts/zoyam/zoyam.tff') format('truetype');
+  src: url('../fonts/zoyam/zoyam.woff2') format('woff2'), url('../fonts/zoyam/zoyam.tff') format('truetype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
