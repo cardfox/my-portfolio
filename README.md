@@ -29,6 +29,6 @@ Notes to myself:
 Credits!
 fonts:
 'Ledlight' from https://www.dafont.com/ledlight.font
-'Penny Lane Corrupted bold' from https://www.dafont.com/penny-lane-corroded.font?fpp=200&sort=date&psize=l
-'I got up' from https://www.dafont.com/i-got-up.font?fpp=200&sort=date&psize=l
-'Zoyam' from https://www.dafont.com/zoyam.font?fpp=200&sort=date&psize=l
+'Penny Lane Corrupted bold' from https://www.dafont.com/penny-lane-corroded.font
+'I got up' from https://www.dafont.com/i-got-up.font
+'Zoyam' from https://www.dafont.com/zoyam.font
