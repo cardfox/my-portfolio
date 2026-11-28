@@ -1,6 +1,21 @@
 # my-portfolio
 
-A personal website, built with html and tailwind
+# A personal website, built with html and tailwind css
+[https://cardfox.github.io/my-portfolio/](https://cardfox.github.io/my-portfolio/)
+
+Installation guide:
+~~why would i need this~~
+- have a device with internet access
+- install a working browser that supports html and tailwind
+- go to [https://cardfox.github.io/my-portfolio/](https://cardfox.github.io/my-portfolio/)
+- profit
+
+
+## AI DISCLOSURE
+I used ai for research purposes, e.g `how do i embed a link?`
+All code currently in the project is hand typed
+
+> *before was was was, was was is?*
 
 Things I've added:
 - stuff i like
@@ -20,6 +35,12 @@ things to add:
 - Animation
 - ~~more pages, not sure how to do that~~
 - ~~some sort of menu for navigating between pages~~
+
+Notes about the progress:
+- why is importing tailwind properly so difficult?
+- Why is adding a font and having it work so difficult?
+- Why is trying to have a link that just works so difficult?
+- Why is adding spacing above and below text so difficult???
 
 
 Notes to myself:
