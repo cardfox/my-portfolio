@@ -24,8 +24,8 @@
 }
 @font-face {
   font-family: 'ZOYAM';
-  src: url('../fonts/zoyam/ZOYAM.ttf') format('woff2'),
-       url('../fonts/zoyam/ZOYAM.tff') format('truetype'); /*fallback for when the other newer one doesn't work*/
+  src: url('../fonts/zoyam/zoyam.ttf') format('woff2'),
+       url('../fonts/zoyam/zoyam.tff') format('truetype'); /*fallback for when the other newer one doesn't work*/
   font-weight: normal;
   font-style: normal;
   font-display: swap; /*renders it with normal text before the custom one loads in so it doesnt not exist*/
