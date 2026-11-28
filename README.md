@@ -6,7 +6,9 @@ Things I've added:
 - stuff i like
 - links to old sites
 - [1] piece of art
-- Favicons?
+- ~~Favicons?~~
+- Navigation bar
+- font testing page
 
   
 things to add:
@@ -16,8 +18,8 @@ things to add:
 - Actual formatting and putting stuff in places
 - Decoration bits
 - Animation
-- more pages, not sure how to do that
-- some sort of menu for navigating between pages
+- ~~more pages, not sure how to do that~~
+- ~~some sort of menu for navigating between pages~~
 
 
 Notes to myself:
